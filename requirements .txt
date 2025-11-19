@@ -1,0 +1,12 @@
+1. install dependency using :
+
+npm install discord.js dotenv
+
+2. create a account here to get the api for the bot and get 100 hits per day
+https://cricketdata.org/
+
+
+3. create a discord dev account and get the discord bot token in discord devlopers : 
+in OAuth2 select the applications.command and bot 
+and scrolling down in bot select it as admin invite the bot to the server 
+
